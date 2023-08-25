@@ -1,0 +1,26 @@
+{
+  "name": "scraper-template",
+  "version": "1.0.0",
+  "description": "Template to start a scraper",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Git-Vdim-Hub/scraper-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Git-Vdim-Hub/scraper-template/issues"
+  },
+  "homepage": "https://github.com/Git-Vdim-Hub/scraper-template#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "request-promise": "^4.2.6"
+  }
+}
